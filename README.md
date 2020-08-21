@@ -1,7 +1,7 @@
 ### Hi there, I'm Thuong - aka [thuongnn][website] 👋
 
 [![Website](https://img.shields.io/website?label=thuongnn.tech&style=for-the-badge&url=https%3A%2F%2Fthuongnn.tech)](https://thuongnn.tech)
-[![Instagram](https://img.shields.io/instagram/url?style=social)](https://www.instagram.com/web/thuongnn97/:id/follow/)
+[![Facebook](https://img.shields.io/badge/Facebook-thuongnn-blue?style=social&logo=facebook)](https://facebook.com/thuongnn97)
 
 ## I'm a Developer!
 

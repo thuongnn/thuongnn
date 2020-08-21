@@ -18,14 +18,7 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jgn8xwimm2wvhuxx9vu7gqgqg?si=LBcDw1v8SKivUPtyjr_FIQ)
 
-<br />
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="thuongnn's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thuongnn&show_icons=true&hide_border=true" />
 </details>
-
-[website]: https://thuongnn.tech
-[facebook]: https://facebook.com/thuongnn97
-[youtube]: https://www.youtube.com/channel/UCe-Dv1I18j_1ndNaJV0bq3A
-[instagram]: https://instagram.com/thuongnn97
-[linkedin]: https://linkedin.com/in/thuongnn

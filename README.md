@@ -4,6 +4,11 @@
 
 ### Hi there, I'm Thuong - [thuongnn][website] 👋
 
+[![CV Badge](https://img.shields.io/badge/-CV-738A94?style=flat-square&logo=adobe-acrobat-reader&logoColor=white&link=https://thuongnn.tech/pdf/Nguyen-Nhu-Thuong.pdf)](https://thuongnn.tech/pdf/Nguyen-Nhu-Thuong.pdf)
+[![Skype Badge](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thuongnn)](https://linkedin.com/in/thuongnn) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thuongnn)](https://linkedin.com/in/thuongnn) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thuongnn6666@gmail.com)](mailto:thuongnn6666@gmail.com)
+
 [![My CV](http://img.shields.io/badge/My%20CV-Download-EC1C24?style=flat-square&logo=adobe-acrobat-reader&logoColor=white&labelColor=EC1C24&color=738A94)](https://thuongnn.tech/pdf/Nguyen-Nhu-Thuong.pdf)
 [![Skype](http://img.shields.io/badge/Skype-thuongnn1997_1-00AFF0?style=flat-square&logo=skype&logoColor=white&labelColor=00AFF0&color=738A94)](https://instagram.com/thuongnn97)
 [![Gmail](http://img.shields.io/badge/Gmail-thuongnn6666@gmail.com-B23121?style=flat-square&logo=gmail&logoColor=white&labelColor=B23121&color=738A94)](mailto:thuongnn6666@gmail.com)

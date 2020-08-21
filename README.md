@@ -5,8 +5,6 @@
 [![Gmail](http://img.shields.io/badge/Gmail-thuongnn6666@gmail.com-B23121?style=flat&logo=gmail&logoColor=white)](mailto:thuongnn6666@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-thuongnn97-4267B2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/thuongnn97)
 [![Linkedin](https://img.shields.io/badge/Linkedin-thuongnn-0e76a8?style=flat&logo=linkedin)](https://linkedin.com/in/thuongnn)
-[![Youtube](https://img.shields.io/badge/youtube-thuongnn1997-c4302b?style=flat&logo=youtube)](https://www.youtube.com/channel/UCe-Dv1I18j_1ndNaJV0bq3A)
-[![Instagram](https://img.shields.io/badge/instagram-thuongnn97-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/thuongnn97)
 
 
 ### I'm a Developer!

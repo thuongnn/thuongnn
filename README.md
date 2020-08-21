@@ -9,7 +9,7 @@
 
 ### I'm a Developer!
 
-- 🔭 I’m currently working on a [Viettel Cyber Security][website]!
+- 🔭 I’m currently working on [Viettel Cyber Security][https://viettelcybersecurity.com/]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects

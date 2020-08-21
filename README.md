@@ -1,10 +1,10 @@
 ### Hi there, I'm Thuong - [thuongnn][website] 👋
 
 [![Website](https://img.shields.io/website?label=thuongnn.tech&style=flat&url=https%3A%2F%2Fthuongnn.tech)](https://thuongnn.tech)
-[![Facebook](https://img.shields.io/badge/Facebook-thuongnn97-4267B2?style=flat&logo=facebook)](https://facebook.com/thuongnn97)
+[![Facebook](https://img.shields.io/badge/Facebook-thuongnn97-4267B2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/thuongnn97)
 [![Linkedin](https://img.shields.io/badge/Linkedin-thuongnn-0e76a8?style=flat&logo=linkedin)](https://linkedin.com/in/thuongnn)
 [![Youtube](https://img.shields.io/badge/youtube-thuongnn1997-c4302b?style=flat&logo=youtube)](https://www.youtube.com/channel/UCe-Dv1I18j_1ndNaJV0bq3A)
-[![Instagram](https://img.shields.io/badge/instagram-thuongnn97-E1306C?style=flat&logo=instagram)](https://instagram.com/thuongnn97)
+[![Instagram](https://img.shields.io/badge/instagram-thuongnn97-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/thuongnn97)
 
 
 ### I'm a Developer!

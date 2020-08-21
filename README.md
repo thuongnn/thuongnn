@@ -1,8 +1,8 @@
 ### Hi there, I'm Thuong - [thuongnn][website] 👋
 
-[![Website](https://img.shields.io/website?label=thuongnn.tech&style=flat-square&url=https%3A%2F%2Fthuongnn.tech)](https://thuongnn.tech)
-[![Facebook](https://img.shields.io/badge/Facebook-thuongnn97-4267B2?style=flat-square&logo=facebook)](https://facebook.com/thuongnn97)
-[![Linkedin](https://img.shields.io/badge/Linkedin-thuongnn-0e76a8?style=flat-square&logo=linkedin)](https://linkedin.com/in/thuongnn)
+[![Website](https://img.shields.io/website?label=thuongnn.tech&style=flat&url=https%3A%2F%2Fthuongnn.tech)](https://thuongnn.tech)
+[![Facebook](https://img.shields.io/badge/Facebook-thuongnn97-4267B2?style=flat&logo=facebook)](https://facebook.com/thuongnn97)
+[![Linkedin](https://img.shields.io/badge/Linkedin-thuongnn-0e76a8?style=flat&logo=linkedin)](https://linkedin.com/in/thuongnn)
 
 ### I'm a Developer!
 

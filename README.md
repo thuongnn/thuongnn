@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Thuong - [thuongnn][website] 👋
 
-[![CV Badge](https://img.shields.io/badge/-CV-738A94?style=flat-square&logo=adobe-acrobat-reader&logoColor=white&link=https://thuongnn.tech/pdf/Nguyen-Nhu-Thuong.pdf)](https://thuongnn.tech/pdf/Nguyen-Nhu-Thuong.pdf)
+[![CV Badge](https://img.shields.io/badge/-Download%20My%20CV-738A94?style=flat-square&logo=adobe-acrobat-reader&logoColor=white&link=https://thuongnn.tech/pdf/Nguyen-Nhu-Thuong.pdf)](https://thuongnn.tech/pdf/Nguyen-Nhu-Thuong.pdf)
 [![Skype Badge](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Linkedin&logoColor=white&link=https://join.skype.com/invite/nrivoAfXgTiV)](https://join.skype.com/invite/nrivoAfXgTiV) 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thuongnn)](https://linkedin.com/in/thuongnn) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thuongnn6666@gmail.com)](mailto:thuongnn6666@gmail.com)

@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-### My GitHub Stats 😑
+---
 <p align="center">
   <img alt="Profile Hits" src="https://github-readme-stats.vercel.app/api?username=thuongnn&show_icons=true&hide_border=true"/>
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>

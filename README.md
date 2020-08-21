@@ -23,6 +23,6 @@
 
 ## My GitHub Stats(Only Public Contributions 😑
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thuongnn&show_icons=true&hide_border=true)
-
+<p align="center"><img alt="Profile Hits" src="https://github-readme-stats.vercel.app/api?username=thuongnn&show_icons=true&hide_border=true" /></p>
 
 [website]: https://thuongnn.tech

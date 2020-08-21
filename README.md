@@ -6,6 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-thuongnn97-4267B2?style=flat-square&logo=facebook&logoColor=white&labelColor=4267B2&color=738A94)](https://facebook.com/thuongnn97)
 [![Linkedin](https://img.shields.io/badge/Linkedin-thuongnn-0e76a8?style=flat-square&logo=linkedin&labelColor=0e76a8&color=738A94)](https://linkedin.com/in/thuongnn)
 
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 ### I'm a Developer!
 

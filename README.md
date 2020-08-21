@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-</p>
-
 ### Hi there, I'm Thuong - [thuongnn][website] 👋
 
 [![CV Badge](https://img.shields.io/badge/-Download%20My%20CV-738A94?style=flat-square&logo=adobe-acrobat-reader&logoColor=white&link=https://thuongnn.tech/pdf/Nguyen-Nhu-Thuong.pdf)](https://thuongnn.tech/pdf/Nguyen-Nhu-Thuong.pdf)

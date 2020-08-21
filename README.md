@@ -1,4 +1,6 @@
-![image](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+</p>
 
 ### Hi there, I'm Thuong - [thuongnn][website] 👋
 

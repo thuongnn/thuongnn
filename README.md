@@ -18,10 +18,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jgn8xwimm2wvhuxx9vu7gqgqg?si=LBcDw1v8SKivUPtyjr_FIQ)
-
-## My GitHub Stats(Only Public Contributions 😑
+### My GitHub Stats 😑
 <p align="center">
   <img alt="Profile Hits" src="https://github-readme-stats.vercel.app/api?username=thuongnn&show_icons=true&hide_border=true"/>
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>

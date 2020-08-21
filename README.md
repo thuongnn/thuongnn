@@ -1,6 +1,6 @@
 ### Hi there, I'm Thuong - [thuongnn][website] 👋
 
-[![Website](https://img.shields.io/website?label=My CV&style=flat&url=https%3A%2F%2Fthuongnn.tech)](https://thuongnn.tech)
+[![Website](https://img.shields.io/website?label=My%20CVv&style=flat&url=https%3A%2F%2Fthuongnn.tech)](https://thuongnn.tech)
 [![Facebook](https://img.shields.io/badge/Facebook-thuongnn97-4267B2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/thuongnn97)
 [![Linkedin](https://img.shields.io/badge/Linkedin-thuongnn-0e76a8?style=flat&logo=linkedin)](https://linkedin.com/in/thuongnn)
 [![Youtube](https://img.shields.io/badge/youtube-thuongnn1997-c4302b?style=flat&logo=youtube)](https://www.youtube.com/channel/UCe-Dv1I18j_1ndNaJV0bq3A)

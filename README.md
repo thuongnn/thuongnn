@@ -9,9 +9,7 @@
 ### I'm a Developer!
 
 - 🔭 I’m currently working on [Viettel Cyber Security](https://viettelcybersecurity.com)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 An engineer who young, talented, creative, passionate in working, always effort to self-improving. Extensive experience in developing high-performance Microservices systems using NodeJS, Golang with Docker, Kubernetes Engine, and Cloud Services.
 
 ---
 <p align="center">

@@ -8,8 +8,9 @@
 
 ### I'm a Developer!
 
-- 🔭 I’m currently working on [Viettel Cyber Security](https://viettelcybersecurity.com)
-- 🥅 An engineer who young, talented, creative, passionate in working, always effort to self-improving. Extensive experience in developing high-performance Microservices systems using NodeJS, Golang with Docker, Kubernetes Engine, and Cloud Services.
+- I’m currently working on [Viettel Cyber Security](https://viettelcybersecurity.com)
+- Extensive experience in developing high-performance Microservices systems using NodeJS, Golang with Docker, Kubernetes Engine, and Cloud Services.
+- Experience in building and using build/deploy tools for CI/CD. 
 
 ---
 <p align="center">

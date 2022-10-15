@@ -18,11 +18,11 @@
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60000441" width="150" height="150" />](https://www.credential.net/3e118faa-5902-4a4c-9eab-b652c75c0d82)
 
 ### Connect with me
-[<img align="left" alt="thuongnn1997 | Skype" src="https://img.shields.io/badge/-Skype-00AFF0?style=flat&logo=Skype&logoColor=white" />][skype]
-[<img align="left" alt="thuongnn1997 | LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="thuongnn1997 | Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />][gmail]
-[<img align="left" alt="thuongnn1997 | Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" />][facebook]
-[<img align="left" src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=#000000" alt="thuongnn" />][website]
+[<img alt="thuongnn1997 | Skype" src="https://img.shields.io/badge/-Skype-00AFF0?style=flat&logo=Skype&logoColor=white" />][skype]
+[<img alt="thuongnn1997 | LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white" />][linkedin]
+[<img alt="thuongnn1997 | Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />][gmail]
+[<img alt="thuongnn1997 | Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" />][facebook]
+[<img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=#000000" alt="thuongnn" />][website]
 
 [website]: https://thuongnn.medium.com
 [linkedin]: https://linkedin.com/in/thuongnn

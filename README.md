@@ -1,21 +1,26 @@
 ### Hi there, I'm Thuong - [thuongnn][website] 👋
-<!-- 
-[![CV Badge](https://img.shields.io/badge/-Download%20My%20CV-738A94?style=flat-square&logo=adobe-acrobat-reader&logoColor=white&link=https://thuongnn.tech/pdf/Thuong_Nguyen_Nhu.pdf)](https://thuongnn.tech/pdf/Thuong_Nguyen_Nhu.pdf) -->
-[![Skype Badge](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white&link=https://join.skype.com/invite/nrivoAfXgTiV)](https://join.skype.com/invite/nrivoAfXgTiV) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thuongnn)](https://linkedin.com/in/thuongnn) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thuongnn6666@gmail.com)](mailto:thuongnn6666@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/thuongnn97)](https://facebook.com/thuongnn97)
+### I'm a DevOps Engineer!
 
-### I'm a Developer!
-
-- I’m currently working on [Viettel Cyber Security](https://viettelcybersecurity.com)
-- Experience in building and using build/deploy tools for CI/CD. 
+- I’m currently working on [SSI Securities Corporation](https://ssi.com.vn)
+- Full experience in building and using build/deploy tools for CI/CD. 
 - Extensive experience in developing high-performance Microservices systems using NodeJS, Golang with Docker, Kubernetes Engine, and Cloud Services.
 
 ---
-<p align="center">
-  <img alt="Profile Hits" src="https://github-readme-stats.vercel.app/api?username=thuongnn&show_icons=true&hide_border=true"/>
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-</p>
+### Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white)
 
-[website]: https://thuongnn.tech
+### My Certifications
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60000441" width="200" height="200" />](https://www.credential.net/3e118faa-5902-4a4c-9eab-b652c75c0d82)
+
+### Connect with me
+
+[<img align="left" alt="thuongnn1997 | Skype" width="22px" src="https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white" />][skype]
+[<img align="left" alt="thuongnn1997 | LinkedIn" width="22px" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />][linkedin]
+
+[website]: https://thuongnn.github.io
+[skype]: https://join.skype.com/invite/nrivoAfXgTiV
+[linkedin]: https://linkedin.com/in/thuongnn

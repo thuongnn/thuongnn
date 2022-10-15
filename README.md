@@ -5,7 +5,6 @@
 - I'm a DevOps/Cloud Engineer at [SSI Securities Corporation](https://ssi.com.vn)
 - Full experience in building and using build/deploy tools for CI/CD. 
 - Extensive experience in developing high-performance microservices systems using NodeJS, Golang with Docker, Kubernetes Engine, and Cloud Services.
-- My personal techblog at [https://thuongnn.medium.com][website]
 
 ---
 ### Technologies & Tools

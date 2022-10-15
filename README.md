@@ -18,8 +18,8 @@
 
 ### Connect with me
 
-[<img align="left" alt="thuongnn1997 | Skype" width="22px" src="https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white" />][skype]
-[<img align="left" alt="thuongnn1997 | LinkedIn" width="22px" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="thuongnn1997 | Skype" src="https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white" />][skype]
+[<img align="left" alt="thuongnn1997 | LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />][linkedin]
 
 [website]: https://thuongnn.github.io
 [skype]: https://join.skype.com/invite/nrivoAfXgTiV

@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ### My Certifications
+[<img src="https://images.credly.com/size/340x340/images/5426612d-4ded-4408-bfaa-dbe3210f9cf9/LF_logobadge.png" width="150" height="150" />](https://www.credly.com/badges/72990811-87ef-458e-990a-ee661a6b4054)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60000441" width="150" height="150" />](https://www.credential.net/3e118faa-5902-4a4c-9eab-b652c75c0d82)
 
 ### Connect with me

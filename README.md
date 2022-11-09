@@ -1,9 +1,6 @@
 ### Hi there, I'm Thuong 👋
 
-> - I'm a DevOps/Cloud Engineer at [SSI Securities Corporation](https://ssi.com.vn)
-> - Full experience in building and using build/deploy tools for CI/CD. 
-> - Extensive experience in developing high-performance microservices systems using NodeJS, Golang with Docker, Kubernetes Engine, and Cloud Services.
-
+> I'm a DevOps/Cloud Engineer at [SSI Securities Corporation](https://ssi.com.vn)
 ---
 ### Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=white)

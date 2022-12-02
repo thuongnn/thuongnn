@@ -13,6 +13,7 @@
 [<img src="https://images.credly.com/size/340x340/images/5426612d-4ded-4408-bfaa-dbe3210f9cf9/LF_logobadge.png" width="150" height="150" />](https://www.credly.com/badges/72990811-87ef-458e-990a-ee661a6b4054)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60000441" width="150" height="150" />](https://www.credential.net/3e118faa-5902-4a4c-9eab-b652c75c0d82)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61633749" width="150" height="150" />](https://www.credential.net/8151bf00-7ede-4f44-9899-863926ad504a)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/63329675" width="150" height="150" />](https://www.credential.net/ee335cca-e275-4869-ad8a-6d94765ab467)
 
 ### Connect with me
 [<img alt="thuongnn1997 | Skype" src="https://img.shields.io/badge/-Skype-00AFF0?style=flat&logo=Skype&logoColor=white" />][skype]
